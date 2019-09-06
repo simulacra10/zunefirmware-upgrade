@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FirmwareUpdates>
+  <!-- Keel -->
+  <FirmwareUpdate DeviceClass="1"
+                  FamilyID="0"
+                  HardwareID="USB\Vid_045e&amp;Pid_0710&amp;Rev_0100"
+                  Manufacturer="Microsoft"
+                  Name="Zune"
+                  Version="03.30.00039.00-00435"
+                  URL="KeelBaseline.cab">
+
+    <Metadata xml:lang="en-US">
+        <Title>Zune firmware version 3.3</Title>
+        <Description>
+<![CDATA[This required update enhances device functionality and performance.
+
+For more information, go to www.zune.net/support.]]>
+        </Description>
+        <EULA>
+<![CDATA[This product is protected by U.S. and international copyright laws. Microsoft, Zune, and the Zune logo are trademarks of the Microsoft group of companies.]]>
+        </EULA>
+    </Metadata>
+
+    <Metadata xml:lang="fr-FR">
+        <Title>Microprogramme Zune version 3.3</Title>
+        <Description>
+<![CDATA[Cette mise à jour améliore le fonctionnement et les performances de l'appareil.
+
+Pour plus d'informations, voir www.zune.net/support.]]>
+        </Description>
+        <EULA>
+<![CDATA[Ce programme est protégé par les lois internationales et américaines relatives au droit d'auteur. Microsoft, Zune et le logo Zune sont des marques du groupe de sociétés Microsoft.]]>
+        </EULA>
+    </Metadata>
+
+    <Metadata xml:lang="es-ES">
+        <Title>Versión 3.3 del firmware de Zune</Title>
+        <Description>
+<![CDATA[Esta actualización mejora la funcionalidad y el rendimiento del dispositivo.
+
+Para obtener más información, visite www.zune.net/support.]]>
+        </Description>
+        <EULA>
+<![CDATA[Este producto está protegido por las leyes de derechos de autor estadounidenses e internacionales. Microsoft, Zune y el logotipo de Zune son marcas comerciales del grupo de compañías Microsoft.]]>
+        </EULA>
+    </Metadata>
+
+    <SupportedUpgradeBaseVersions>
+      <UpgradeFrom Version="00.00.00000.00-00.00" />
+      <UpgradeFrom Version="00.00.00000.00-00000" />
+      <UpgradeFrom Version="01.00.00193.00-02.04" />
+      <UpgradeFrom Version="01.01.00322.00-00309" />
+      <UpgradeFrom Version="01.02.00434.00-00425" />
+      <UpgradeFrom Version="01.03.00482.00-00425" />
+      <UpgradeFrom Version="01.04.00485.00-00425" />
+      <UpgradeFrom Version="02.01.01014.00-00425" />
+      <UpgradeFrom Version="02.02.01040.00-00425" />
+      <UpgradeFrom Version="02.03.01145.00-00435" />
+      <UpgradeFrom Version="02.05.01614.00-00435" />
+      <UpgradeFrom Version="03.00.00225.00-00435" />
+      <UpgradeFrom Version="03.01.00050.00-00435" />
+      <UpgradeFrom Version="03.20.00034.00-00435" />
+      <UpgradeFrom Version="03.20.00035.00-00435" />
+    </SupportedUpgradeBaseVersions>
+  </FirmwareUpdate>
+
+  <!-- Scorpius -->
+  <FirmwareUpdate DeviceClass="1"
+                  FamilyID="2"
+                  HardwareID="USB\Vid_045e&amp;Pid_0710&amp;Rev_0200"
+                  Manufacturer="Microsoft"
+                  Name="Zune"
+                  Version="03.30.00039.00-01620"
+                  URL="ScorpiusBaseline.cab">
+
+    <Metadata xml:lang="en-US">
+        <Title>Zune firmware version 3.3</Title>
+        <Description>
+<![CDATA[This required update enhances device functionality and performance.
+
+For more information, go to www.zune.net/support.]]>
+        </Description>
+        <EULA>
+<![CDATA[This product is protected by U.S. and international copyright laws. Microsoft, Zune, and the Zune logo are trademarks of the Microsoft group of companies.]]>
+        </EULA>
+    </Metadata>
+
+    <Metadata xml:lang="fr-FR">
+        <Title>Microprogramme Zune version 3.3</Title>
+        <Description>
+<![CDATA[Cette mise à jour améliore le fonctionnement et les performances de l'appareil.
+
+Pour plus d'informations, voir www.zune.net/support.]]>
+        </Description>
+        <EULA>
+<![CDATA[Ce programme est protégé par les lois internationales et américaines relatives au droit d'auteur. Microsoft, Zune et le logo Zune sont des marques du groupe de sociétés Microsoft.]]>
+        </EULA>
+    </Metadata>
+
+    <Metadata xml:lang="es-ES">
+        <Title>Versión 3.3 del firmware de Zune</Title>
+        <Description>
+<![CDATA[Esta actualización mejora la funcionalidad y el rendimiento del dispositivo.
+
+Para obtener más información, visite www.zune.net/support.]]>
+        </Description>
+        <EULA>
+<![CDATA[Este producto está protegido por las leyes de derechos de autor estadounidenses e internacionales. Microsoft, Zune y el logotipo de Zune son marcas comerciales del grupo de compañías Microsoft.]]>
+        </EULA>
+    </Metadata>
+
+    <SupportedUpgradeBaseVersions>
+      <UpgradeFrom Version="00.00.00000.00-00000" />
+      <UpgradeFrom Version="02.00.00799.00-00799" />
+      <UpgradeFrom Version="02.01.01014.00-01003" />
+      <UpgradeFrom Version="02.02.01040.00-01040" />
+      <UpgradeFrom Version="02.03.01145.00-01040" />
+      <UpgradeFrom Version="02.05.01614.00-01613" />
+      <UpgradeFrom Version="03.00.00225.00-01613" />
+      <UpgradeFrom Version="03.01.00050.00-01620" />
+      <UpgradeFrom Version="03.20.00034.00-01620" />
+      <UpgradeFrom Version="03.20.00035.00-01620" />
+    </SupportedUpgradeBaseVersions>
+  </FirmwareUpdate>
+
+  <!-- Draco -->
+  <FirmwareUpdate DeviceClass="1"
+                  FamilyID="3"
+                  HardwareID="USB\Vid_045e&amp;Pid_0710&amp;Rev_0300"
+                  Manufacturer="Microsoft"
+                  Name="Zune"
+                  Version="03.30.00039.00-01620"
+                  URL="DracoBaseline.cab">
+
+    <Metadata xml:lang="en-US">
+        <Title>Zune firmware version 3.3</Title>
+        <Description>
+<![CDATA[This required update enhances device functionality and performance.
+
+For more information, go to www.zune.net/support.]]>
+        </Description>
+        <EULA>
+<![CDATA[This product is protected by U.S. and international copyright laws. Microsoft, Zune, and the Zune logo are trademarks of the Microsoft group of companies.]]>
+        </EULA>
+    </Metadata>
+
+    <Metadata xml:lang="fr-FR">
+        <Title>Microprogramme Zune version 3.3</Title>
+        <Description>
+<![CDATA[Cette mise à jour améliore le fonctionnement et les performances de l'appareil.
+
+Pour plus d'informations, voir www.zune.net/support.]]>
+        </Description>
+        <EULA>
+<![CDATA[Ce programme est protégé par les lois internationales et américaines relatives au droit d'auteur. Microsoft, Zune et le logo Zune sont des marques du groupe de sociétés Microsoft.]]>
+        </EULA>
+    </Metadata>
+
+    <Metadata xml:lang="es-ES">
+        <Title>Versión 3.3 del firmware de Zune</Title>
+        <Description>
+<![CDATA[Esta actualización mejora la funcionalidad y el rendimiento del dispositivo.
+
+Para obtener más información, visite www.zune.net/support.]]>
+        </Description>
+        <EULA>
+<![CDATA[Este producto está protegido por las leyes de derechos de autor estadounidenses e internacionales. Microsoft, Zune y el logotipo de Zune son marcas comerciales del grupo de compañías Microsoft.]]>
+        </EULA>
+    </Metadata>
+
+    <SupportedUpgradeBaseVersions>
+      <UpgradeFrom Version="00.00.00000.00-00000" />
+      <UpgradeFrom Version="02.00.00799.00-00799" />
+      <UpgradeFrom Version="02.01.01014.00-01003" />
+      <UpgradeFrom Version="02.02.01040.00-01040" />
+      <UpgradeFrom Version="02.03.01145.00-01040" />
+      <UpgradeFrom Version="02.05.01614.00-01613" />
+      <UpgradeFrom Version="03.00.00225.00-01613" />
+      <UpgradeFrom Version="03.01.00050.00-01620" />
+      <UpgradeFrom Version="03.20.00034.00-01620" />
+      <UpgradeFrom Version="03.20.00035.00-01620" />
+    </SupportedUpgradeBaseVersions>
+  </FirmwareUpdate>
+
+  <!-- Pavo -->
+  <FirmwareUpdate DeviceClass="2"
+                  FamilyID="6"
+                  HardwareID="USB\Vid_045e&amp;Pid_063E&amp;Rev_0100"
+                  Manufacturer="Microsoft"
+                  Name="Zune"
+                  Version="04.05.00114.00-04.05.00114.00-04.05.00114.00"
+                  URL="PavoBaseline.cab">
+
+    <Metadata xml:lang="en-US">
+      <Title>Zune firmware version 4.5</Title>
+      <Description>
+<![CDATA[This update enhances device functionality and performance.
+
+For more information, go to www.zune.net/support.]]>
+      </Description>
+      <EULA>
+<![CDATA[This product is protected by U.S. and international copyright laws. Microsoft, Zune, and the Zune logo are trademarks of the Microsoft group of companies.]]>
+      </EULA>
+    </Metadata>
+
+    <Metadata xml:lang="fr-FR">
+      <Title>Microprogramme Zune version 4.5</Title>
+      <Description>
+<![CDATA[Cette mise à jour améliore le fonctionnement et les performances de l'appareil. 
+
+Pour plus d'informations, voir www.zune.net/support.]]>
+      </Description>
+      <EULA>
+<![CDATA[Ce programme est protégé par les lois internationales et américaines relatives au droit d'auteur. Microsoft, Zune et le logo Zune sont des marques du groupe de sociétés Microsoft.]]>
+      </EULA>
+    </Metadata>
+
+    <Metadata xml:lang="es-ES">
+      <Title>Versión 4.5 del firmware de Zune</Title>
+      <Description>
+<![CDATA[Esta actualización mejora la funcionalidad y el rendimiento del dispositivo. 
+
+Para obtener más información, visite www.zune.net/support.]]>
+      </Description>
+      <EULA>
+<![CDATA[Este producto está protegido por las leyes de derechos de autor estadounidenses e internacionales. Microsoft, Zune y el logotipo de Zune son marcas comerciales del grupo de compañías Microsoft.]]>
+      </EULA>
+    </Metadata>
+
+    <SupportedUpgradeBaseVersions>
+      <UpgradeFrom Version="00.00.00000.00-00.00.00000.00-00.00.00000.00" /> <!-- Generic recovery image firmware version -->
+      <UpgradeFrom Version="00.00.00000.00-04.00.00356.00-04.00.00356.00" /> <!-- Recovery image version for firmware 4.0 -->
+      <UpgradeFrom Version="00.00.00000.00-04.01.00137.00-04.01.00137.00" /> <!-- Recovery image version for firmware 4.1 -->
+      <UpgradeFrom Version="00.00.00000.00-04.03.00191.00-04.03.00191.00" /> <!-- Recovery image version for firmware 4.3 -->
+      <UpgradeFrom Version="00.00.00000.00-04.05.00109.00-04.05.00109.00" /> <!-- Recovery image version for firmware 4.5 -->
+      <UpgradeFrom Version="00.00.00000.00-04.05.00114.00-04.05.00114.00" /> <!-- Recovery image version for firmware 4.5 -->
+      <UpgradeFrom Version="04.00.00356.00-04.00.00356.00-04.00.00356.00" />
+      <UpgradeFrom Version="04.01.00137.00-04.01.00137.00-04.01.00137.00" />
+      <UpgradeFrom Version="04.03.00191.00-04.03.00191.00-04.03.00191.00" />
+      <UpgradeFrom Version="04.05.00109.00-04.05.00109.00-04.05.00109.00" />
+    </SupportedUpgradeBaseVersions>
+  </FirmwareUpdate>
+</FirmwareUpdates>
+

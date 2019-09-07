@@ -1,4 +1,4 @@
-#IMPORTANT - 9/6/2019 These instructions are NEWER than the video. Please read them and disregard the video. When I get a chance to make a new video I will update.
+ **IMPORTANT  - 9/6/2019 These instructions are NEWER than the video. Please read them and disregard the video. When I get a chance to make a new video I will update.**
 
 Thank you for taking the time to keep your Zune alive. Sadly, due to the scarcity of parts for all Zunes, Wye Oak Mobile Device Repair can no longer accept Zune's for repair. This an unfortunate development since as far as we know, we were the last company to do repairs. 
 

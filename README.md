@@ -9,7 +9,7 @@ With the above in mind, I set out to find a way that would be easiest for anyone
 3) Append the line below to it and save the file:
     **127.0.0.1 resources.zune.net**
 
-4) **Skip this step if you are using git to clone the project** - Unzip the file ZuneUpdate-with-webserver.zip to a directory of your choice. If you leave it to the default, most unzip managers will use the file name as the directory where it will unpack it to. 
+4) **Skip this step if you are using git to clone the project** - Unzip the file zunefirmare-upgrade-master.zip to a directory of your choice. If you leave it to the default, most unzip managers will use the file name as the directory where it will unpack it to. 
 
 5) Go to that directory where the files were unzipped to. Inside it there is a file named "mongoose-free-6.9.exe". Double click on that executable. IMPORTANT, if your firewall asks to allow access, make certain that the option for Public is unchecked and PRIVATE is checked.
 
